@@ -6,22 +6,18 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro",
-    "postinstall": "patch-package"
+    "astro": "astro"
   },
   "dependencies": {
     "@astrojs/react": "^5.0.4",
     "@cloudscape-design/code-view": "^3.0.127",
-    "@cloudscape-design/collection-hooks": "^1.0.91",
-    "@cloudscape-design/components": "^3.0.1286",
+    "@cloudscape-design/collection-hooks": "^1.0.92",
+    "@cloudscape-design/components": "^3.0.1290",
     "@cloudscape-design/global-styles": "^1.0.58",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "astro": "^6.1.10",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
-  },
-  "devDependencies": {
-    "patch-package": "^8.0.1"
   }
 }
