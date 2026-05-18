@@ -32946,18 +32946,6 @@
     "exception": false
   },
   {
-    "suffix": "cc.nd.us",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "lib.nd.us",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "cc.ne.us",
     "type": "ICANN",
     "wildcard": false,
@@ -48528,12 +48516,6 @@
     "exception": false
   },
   {
-    "suffix": "on.crisp.email",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "*.cryptonomic.net",
     "type": "private",
     "wildcard": true,
@@ -53713,6 +53695,12 @@
   },
   {
     "suffix": "plc.ng",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "hstgr.cloud",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -59268,6 +59256,24 @@
     "exception": false
   },
   {
+    "suffix": "vicp.fun",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "yicp.fun",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "zicp.fun",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "sheezy.games",
     "type": "private",
     "wildcard": false,
@@ -60282,6 +60288,18 @@
     "exception": false
   },
   {
+    "suffix": "t3.storage.dev",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "t3.storageapi.dev",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "arvo.network",
     "type": "private",
     "wildcard": false,
@@ -61171,6 +61189,18 @@
   },
   {
     "suffix": "*.zerops.app",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "prg1-zerops.zone",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.zerops.zone",
     "type": "private",
     "wildcard": true,
     "exception": false
