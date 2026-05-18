@@ -16956,6 +16956,18 @@
     "longitude": 28.049722
   },
   {
+    "root": "K-root",
+    "operator": "RIPE NCC",
+    "country": "ZA",
+    "town": "Johannesburg",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -26.205,
+    "longitude": 28.049722
+  },
+  {
     "root": "L-root",
     "operator": "ICANN",
     "country": "AE",
