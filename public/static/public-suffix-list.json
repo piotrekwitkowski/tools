@@ -53568,6 +53568,18 @@
     "exception": false
   },
   {
+    "suffix": "cloud.run",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ai.studio",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "goupile.fr",
     "type": "private",
     "wildcard": false,
