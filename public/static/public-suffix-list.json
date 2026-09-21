@@ -52332,6 +52332,12 @@
     "exception": false
   },
   {
+    "suffix": "hosted-by-files.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "firebaseapp.com",
     "type": "private",
     "wildcard": false,
@@ -53763,6 +53769,12 @@
     "suffix": "herokuapp.com",
     "type": "private",
     "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.compute.herokuapp.com",
+    "type": "private",
+    "wildcard": true,
     "exception": false
   },
   {
@@ -58482,18 +58494,6 @@
     "exception": false
   },
   {
-    "suffix": "alpha-myqnapcloud.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "dev-myqnapcloud.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "mycloudnas.com",
     "type": "private",
     "wildcard": false,
@@ -60643,6 +60643,12 @@
   },
   {
     "suffix": "supabase.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "surge.sh",
     "type": "private",
     "wildcard": false,
     "exception": false
