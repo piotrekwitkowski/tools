@@ -48498,6 +48498,12 @@
     "exception": false
   },
   {
+    "suffix": "site.webhosting.be",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "prvw.eu",
     "type": "private",
     "wildcard": false,
@@ -48505,6 +48511,12 @@
   },
   {
     "suffix": "hosting-cluster.nl",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "site.hosting-cluster.nl",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -48721,6 +48733,30 @@
   },
   {
     "suffix": "darklang.io",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "aws.databricksapps.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.azure.databricksapps.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "gcp.databricksapps.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "aws-gov.databricksapps.us",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -52782,6 +52818,12 @@
     "exception": false
   },
   {
+    "suffix": "glideos.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "nog.community",
     "type": "private",
     "wildcard": false,
@@ -54427,6 +54469,12 @@
   },
   {
     "suffix": "ipv64.net",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "iqhs.pl",
     "type": "private",
     "wildcard": false,
     "exception": false
