@@ -38028,12 +38028,6 @@
     "exception": false
   },
   {
-    "suffix": "juniper",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "kaufen",
     "type": "ICANN",
     "wildcard": false,
