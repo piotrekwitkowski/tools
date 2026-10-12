@@ -42276,6 +42276,12 @@
     "exception": false
   },
   {
+    "suffix": "auth.ap-east-2.amazoncognito.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "auth.ap-northeast-1.amazoncognito.com",
     "type": "private",
     "wildcard": false,
@@ -42331,6 +42337,12 @@
   },
   {
     "suffix": "auth.ap-southeast-5.amazoncognito.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "auth.ap-southeast-6.amazoncognito.com",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -43113,6 +43125,126 @@
     "suffix": "emrstudio-prod.us-west-2.amazonaws.com",
     "type": "private",
     "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "amazonlightsail.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-east-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-northeast-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-northeast-2.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-south-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-southeast-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-southeast-2.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-southeast-3.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ap-southeast-5.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.ca-central-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.eu-central-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.eu-north-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.eu-south-2.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.eu-west-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.eu-west-2.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.eu-west-3.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.sa-east-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.us-east-1.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.us-east-2.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.us-west-2.cs.amazonlightsail.com",
+    "type": "private",
+    "wildcard": true,
     "exception": false
   },
   {
@@ -46596,6 +46728,12 @@
     "exception": false
   },
   {
+    "suffix": "ap-south-2.elasticbeanstalk.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "ap-southeast-1.elasticbeanstalk.com",
     "type": "private",
     "wildcard": false,
@@ -46614,7 +46752,19 @@
     "exception": false
   },
   {
+    "suffix": "ap-southeast-4.elasticbeanstalk.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "ap-southeast-5.elasticbeanstalk.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ap-southeast-6.elasticbeanstalk.com",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -46632,7 +46782,19 @@
     "exception": false
   },
   {
+    "suffix": "ca-west-1.elasticbeanstalk.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "eu-central-1.elasticbeanstalk.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eu-central-2.elasticbeanstalk.com",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -58776,165 +58938,15 @@
     "exception": false
   },
   {
-    "suffix": "replit.dev",
+    "suffix": "*.replit.dev",
     "type": "private",
-    "wildcard": false,
+    "wildcard": true,
     "exception": false
   },
   {
-    "suffix": "archer.replit.dev",
+    "suffix": "*.teams.replit.dev",
     "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "bones.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "canary.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "global.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "hacker.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "id.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "janeway.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "kim.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "kira.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "kirk.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "odo.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "paris.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "picard.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "pike.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "prerelease.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "reed.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "riker.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "sisko.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "spock.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "staging.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "sulu.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "tarpit.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "teams.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "tucker.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "wesley.replit.dev",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "worf.replit.dev",
-    "type": "private",
-    "wildcard": false,
+    "wildcard": true,
     "exception": false
   },
   {
@@ -58951,6 +58963,12 @@
   },
   {
     "suffix": "devices.resinstaging.io",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "retool.app",
     "type": "private",
     "wildcard": false,
     "exception": false
