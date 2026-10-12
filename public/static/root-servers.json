@@ -7732,24 +7732,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "AU",
     "town": "Brisbane",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": -27.384199,
-    "longitude": 153.117004
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "AU",
-    "town": "Brisbane",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": -27.40303,
     "longitude": 153.10905
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "AU",
+    "town": "Brisbane",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -27.384199,
+    "longitude": 153.117004
   },
   {
     "root": "F-root",
@@ -7939,9 +7939,9 @@
     "type": "Local",
     "instances": 1,
     "ipv4": true,
-    "ipv6": true,
-    "latitude": -16.4897,
-    "longitude": -68.1193
+    "ipv6": false,
+    "latitude": -16.50889,
+    "longitude": -68.1769
   },
   {
     "root": "F-root",
@@ -7951,9 +7951,9 @@
     "type": "Local",
     "instances": 1,
     "ipv4": true,
-    "ipv6": false,
-    "latitude": -16.50889,
-    "longitude": -68.1769
+    "ipv6": true,
+    "latitude": -16.4897,
+    "longitude": -68.1193
   },
   {
     "root": "F-root",
@@ -8139,6 +8139,18 @@
     "root": "F-root",
     "operator": "Internet Systems Consortium, Inc.",
     "country": "BR",
+    "town": "Feira de Santana",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -12.2025,
+    "longitude": -38.906113
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "BR",
     "town": "Florianopolis",
     "type": "Local",
     "instances": 1,
@@ -8153,11 +8165,11 @@
     "country": "BR",
     "town": "Fortaleza",
     "type": "Local",
-    "instances": 1,
+    "instances": 4,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -3.779073,
-    "longitude": -38.540836
+    "latitude": -3.77628,
+    "longitude": -38.5326
   },
   {
     "root": "F-root",
@@ -8165,11 +8177,11 @@
     "country": "BR",
     "town": "Fortaleza",
     "type": "Local",
-    "instances": 4,
+    "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -3.77628,
-    "longitude": -38.5326
+    "latitude": -3.779073,
+    "longitude": -38.540836
   },
   {
     "root": "F-root",
@@ -8206,6 +8218,18 @@
     "ipv6": true,
     "latitude": -7.2242,
     "longitude": -39.313
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "BR",
+    "town": "Maceió",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -9.512521,
+    "longitude": -35.800446
   },
   {
     "root": "F-root",
@@ -8254,6 +8278,18 @@
     "ipv6": true,
     "latitude": -29.9944,
     "longitude": -51.171398
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "BR",
+    "town": "Porto Velho",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -8.714311,
+    "longitude": -63.898308
   },
   {
     "root": "F-root",
@@ -8362,6 +8398,18 @@
     "ipv6": true,
     "latitude": -23.1791,
     "longitude": -45.8872
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "BR",
+    "town": "São Luís",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -2.583316,
+    "longitude": -44.236683
   },
   {
     "root": "F-root",
@@ -8596,24 +8644,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "CL",
     "town": "Santiago",
-    "type": "Global",
-    "instances": 4,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": -33.393002,
-    "longitude": -70.785797
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "CL",
-    "town": "Santiago",
     "type": "Local",
     "instances": 2,
     "ipv4": true,
     "ipv6": true,
     "latitude": -33.397175,
     "longitude": -70.79382
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "CL",
+    "town": "Santiago",
+    "type": "Global",
+    "instances": 4,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -33.393002,
+    "longitude": -70.785797
   },
   {
     "root": "F-root",
@@ -8788,24 +8836,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "DE",
     "town": "Berlin",
-    "type": "Local",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 52.365284,
-    "longitude": 13.5133345
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "DE",
-    "town": "Berlin",
     "type": "Global",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 52.5597,
     "longitude": 13.2877
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "DE",
+    "town": "Berlin",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 52.365284,
+    "longitude": 13.5133345
   },
   {
     "root": "F-root",
@@ -8824,24 +8872,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "DE",
     "town": "Frankfurt",
-    "type": "Local",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 50.050735,
-    "longitude": 8.570773
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "DE",
-    "town": "Frankfurt",
     "type": "Global",
     "instances": 2,
     "ipv4": true,
     "ipv6": true,
     "latitude": 50.026402,
     "longitude": 8.54313
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "DE",
+    "town": "Frankfurt",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 50.050735,
+    "longitude": 8.570773
   },
   {
     "root": "F-root",
@@ -9016,24 +9064,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "ES",
     "town": "Barcelona",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 41.2971,
-    "longitude": 2.07846
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "ES",
-    "town": "Barcelona",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 41.30303,
     "longitude": 2.07593
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "ES",
+    "town": "Barcelona",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 41.2971,
+    "longitude": 2.07846
   },
   {
     "root": "F-root",
@@ -9092,8 +9140,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -18.11319,
-    "longitude": 178.43859
+    "latitude": -18.045885,
+    "longitude": 178.55981
   },
   {
     "root": "F-root",
@@ -9104,8 +9152,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -18.045885,
-    "longitude": 178.55981
+    "latitude": -18.11319,
+    "longitude": 178.43859
   },
   {
     "root": "F-root",
@@ -9160,24 +9208,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "GB",
     "town": "London",
-    "type": "Local",
-    "instances": 2,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 51.5,
-    "longitude": 0.05
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "GB",
-    "town": "London",
     "type": "Global",
     "instances": 3,
     "ipv4": true,
     "ipv6": true,
     "latitude": 51.4706,
     "longitude": -0.461941
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "GB",
+    "town": "London",
+    "type": "Local",
+    "instances": 2,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 51.5,
+    "longitude": 0.05
   },
   {
     "root": "F-root",
@@ -9320,8 +9368,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 15.4526,
-    "longitude": -87.923599
+    "latitude": 15.456245,
+    "longitude": -87.927795
   },
   {
     "root": "F-root",
@@ -9332,8 +9380,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 15.456245,
-    "longitude": -87.927795
+    "latitude": 15.4526,
+    "longitude": -87.923599
   },
   {
     "root": "F-root",
@@ -9392,8 +9440,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -8.74817,
-    "longitude": 115.167
+    "latitude": -8.748056,
+    "longitude": 115.1675
   },
   {
     "root": "F-root",
@@ -9404,8 +9452,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -8.748056,
-    "longitude": 115.1675
+    "latitude": -8.74817,
+    "longitude": 115.167
   },
   {
     "root": "F-root",
@@ -9452,8 +9500,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -7.785572,
-    "longitude": 110.43706
+    "latitude": -7.78818,
+    "longitude": 110.431999
   },
   {
     "root": "F-root",
@@ -9464,8 +9512,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -7.78818,
-    "longitude": 110.431999
+    "latitude": -7.785572,
+    "longitude": 110.43706
   },
   {
     "root": "F-root",
@@ -9497,11 +9545,11 @@
     "country": "IL",
     "town": "Tel Aviv",
     "type": "Local",
-    "instances": 5,
+    "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 32.011398,
-    "longitude": 34.8867
+    "latitude": 32.000454,
+    "longitude": 34.870743
   },
   {
     "root": "F-root",
@@ -9509,11 +9557,11 @@
     "country": "IL",
     "town": "Tel Aviv",
     "type": "Local",
-    "instances": 1,
+    "instances": 5,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 32.000454,
-    "longitude": 34.870743
+    "latitude": 32.011398,
+    "longitude": 34.8867
   },
   {
     "root": "F-root",
@@ -9676,24 +9724,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "IN",
     "town": "Kolkata",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 22.647693,
-    "longitude": 88.434925
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "IN",
-    "town": "Kolkata",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 22.64531,
     "longitude": 88.43931
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "IN",
+    "town": "Kolkata",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 22.647693,
+    "longitude": 88.434925
   },
   {
     "root": "F-root",
@@ -9892,24 +9940,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "IT",
     "town": "Rome",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 41.804501,
-    "longitude": 12.2508
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "IT",
-    "town": "Rome",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 41.799065,
     "longitude": 12.590987
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "IT",
+    "town": "Rome",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 41.804501,
+    "longitude": 12.2508
   },
   {
     "root": "F-root",
@@ -10049,11 +10097,11 @@
     "country": "KH",
     "town": "Phnom Penh",
     "type": "Local",
-    "instances": 1,
+    "instances": 2,
     "ipv4": true,
-    "ipv6": true,
-    "latitude": 11.546111,
-    "longitude": 104.84778
+    "ipv6": false,
+    "latitude": 11.5466,
+    "longitude": 104.844002
   },
   {
     "root": "F-root",
@@ -10061,11 +10109,11 @@
     "country": "KH",
     "town": "Phnom Penh",
     "type": "Local",
-    "instances": 2,
+    "instances": 1,
     "ipv4": true,
-    "ipv6": false,
-    "latitude": 11.5466,
-    "longitude": 104.844002
+    "ipv6": true,
+    "latitude": 11.546111,
+    "longitude": 104.84778
   },
   {
     "root": "F-root",
@@ -10216,24 +10264,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "LU",
     "town": "Luxembourg City",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 49.626598,
-    "longitude": 6.21152
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "LU",
-    "town": "Luxembourg City",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 49.63111,
     "longitude": 6.209539
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "LU",
+    "town": "Luxembourg City",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 49.626598,
+    "longitude": 6.21152
   },
   {
     "root": "F-root",
@@ -10408,24 +10456,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "MY",
     "town": "Kuala Lumpur",
-    "type": "Global",
-    "instances": 5,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 2.74558,
-    "longitude": 101.709999
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "MY",
-    "town": "Kuala Lumpur",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 2.755672,
     "longitude": 101.70539
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "MY",
+    "town": "Kuala Lumpur",
+    "type": "Global",
+    "instances": 5,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 2.74558,
+    "longitude": 101.709999
   },
   {
     "root": "F-root",
@@ -10481,18 +10529,6 @@
     "country": "NL",
     "town": "Amsterdam",
     "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 52.30907,
-    "longitude": 4.763385
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "NL",
-    "town": "Amsterdam",
-    "type": "Global",
     "instances": 5,
     "ipv4": true,
     "ipv6": true,
@@ -10502,14 +10538,14 @@
   {
     "root": "F-root",
     "operator": "Internet Systems Consortium, Inc.",
-    "country": "NO",
-    "town": "Oslo",
+    "country": "NL",
+    "town": "Amsterdam",
     "type": "Global",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 60.193901,
-    "longitude": 11.1004
+    "latitude": 52.30907,
+    "longitude": 4.763385
   },
   {
     "root": "F-root",
@@ -10522,6 +10558,18 @@
     "ipv6": true,
     "latitude": 60.19419,
     "longitude": 11.100411
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "NO",
+    "town": "Oslo",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 60.193901,
+    "longitude": 11.1004
   },
   {
     "root": "F-root",
@@ -10540,24 +10588,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "NZ",
     "town": "Auckland",
-    "type": "Local",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": -37.004787,
-    "longitude": 174.78352
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "NZ",
-    "town": "Auckland",
     "type": "Global",
     "instances": 3,
     "ipv4": true,
     "ipv6": true,
     "latitude": -37.008099,
     "longitude": 174.792007
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "NZ",
+    "town": "Auckland",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": -37.004787,
+    "longitude": 174.78352
   },
   {
     "root": "F-root",
@@ -10630,6 +10678,18 @@
     "ipv6": true,
     "latitude": -17.553699,
     "longitude": -149.606995
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "PG",
+    "town": "Port Moresby",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": false,
+    "latitude": -9.444308,
+    "longitude": 147.21446
   },
   {
     "root": "F-root",
@@ -10757,11 +10817,11 @@
     "country": "PR",
     "town": "San Juan",
     "type": "Local",
-    "instances": 2,
+    "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 18.411391,
-    "longitude": -66.102793
+    "latitude": 18.437403,
+    "longitude": -66.004684
   },
   {
     "root": "F-root",
@@ -10769,11 +10829,11 @@
     "country": "PR",
     "town": "San Juan",
     "type": "Local",
-    "instances": 1,
+    "instances": 2,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 18.437403,
-    "longitude": -66.004684
+    "latitude": 18.411391,
+    "longitude": -66.102793
   },
   {
     "root": "F-root",
@@ -10876,24 +10936,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "RS",
     "town": "Belgrade",
-    "type": "Local",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 44.819443,
-    "longitude": 20.306944
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "RS",
-    "town": "Belgrade",
     "type": "Global",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 44.818401,
     "longitude": 20.309099
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "RS",
+    "town": "Belgrade",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 44.819443,
+    "longitude": 20.306944
   },
   {
     "root": "F-root",
@@ -10985,11 +11045,11 @@
     "country": "SA",
     "town": "Riyadh",
     "type": "Local",
-    "instances": 4,
+    "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 24.9576,
-    "longitude": 46.698799
+    "latitude": 24.95929,
+    "longitude": 46.702877
   },
   {
     "root": "F-root",
@@ -10997,11 +11057,11 @@
     "country": "SA",
     "town": "Riyadh",
     "type": "Local",
-    "instances": 1,
+    "instances": 4,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 24.95929,
-    "longitude": 46.702877
+    "latitude": 24.9576,
+    "longitude": 46.698799
   },
   {
     "root": "F-root",
@@ -11156,8 +11216,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 38.54894,
-    "longitude": 68.81728
+    "latitude": 38.571647,
+    "longitude": 68.787672
   },
   {
     "root": "F-root",
@@ -11168,8 +11228,8 @@
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 38.571647,
-    "longitude": 68.787672
+    "latitude": 38.54894,
+    "longitude": 68.81728
   },
   {
     "root": "F-root",
@@ -11225,11 +11285,11 @@
     "country": "TW",
     "town": "Taipei",
     "type": "Local",
-    "instances": 1,
+    "instances": 3,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 25.07639,
-    "longitude": 121.22389
+    "latitude": 25.0777,
+    "longitude": 121.233002
   },
   {
     "root": "F-root",
@@ -11237,11 +11297,11 @@
     "country": "TW",
     "town": "Taipei",
     "type": "Local",
-    "instances": 3,
+    "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 25.0777,
-    "longitude": 121.233002
+    "latitude": 25.07639,
+    "longitude": 121.22389
   },
   {
     "root": "F-root",
@@ -11308,24 +11368,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
     "town": "Albuquerque",
-    "type": "Local",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 35.049625,
-    "longitude": -106.617195
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "US",
-    "town": "Albuquerque",
     "type": "Global",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 35.0844,
     "longitude": -106.6504
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "US",
+    "town": "Albuquerque",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 35.049625,
+    "longitude": -106.617195
   },
   {
     "root": "F-root",
@@ -11356,24 +11416,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
     "town": "Atlanta",
-    "type": "Global",
-    "instances": 3,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 33.6367,
-    "longitude": -84.428101
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "US",
-    "town": "Atlanta",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 33.640068,
     "longitude": -84.44403
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "US",
+    "town": "Atlanta",
+    "type": "Global",
+    "instances": 3,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 33.6367,
+    "longitude": -84.428101
   },
   {
     "root": "F-root",
@@ -11415,18 +11475,6 @@
     "root": "F-root",
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
-    "town": "Boston",
-    "type": "Local",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 42.36646,
-    "longitude": -71.02018
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "US",
     "town": "Buffalo",
     "type": "Global",
     "instances": 1,
@@ -11456,8 +11504,8 @@
     "instances": 2,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 41.9786,
-    "longitude": -87.9048
+    "latitude": 41.976913,
+    "longitude": -87.90488
   },
   {
     "root": "F-root",
@@ -11468,8 +11516,8 @@
     "instances": 2,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 41.976913,
-    "longitude": -87.90488
+    "latitude": 41.9786,
+    "longitude": -87.9048
   },
   {
     "root": "F-root",
@@ -11512,24 +11560,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
     "town": "Dallas",
-    "type": "Global",
-    "instances": 2,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 32.896801,
-    "longitude": -97.038002
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "US",
-    "town": "Dallas",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 32.89746,
     "longitude": -97.036125
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "US",
+    "town": "Dallas",
+    "type": "Global",
+    "instances": 2,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 32.896801,
+    "longitude": -97.038002
   },
   {
     "root": "F-root",
@@ -11632,18 +11680,6 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
     "town": "Las Vegas",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 36.080101,
-    "longitude": -115.152
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "US",
-    "town": "Las Vegas",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
@@ -11655,13 +11691,13 @@
     "root": "F-root",
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
-    "town": "Los Angeles",
-    "type": "Local",
+    "town": "Las Vegas",
+    "type": "Global",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": 33.943398,
-    "longitude": -118.40828
+    "latitude": 36.080101,
+    "longitude": -115.152
   },
   {
     "root": "F-root",
@@ -11824,24 +11860,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
     "town": "Phoenix",
-    "type": "Global",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 33.434299,
-    "longitude": -112.012001
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "US",
-    "town": "Phoenix",
     "type": "Local",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 33.435036,
     "longitude": -112.00016
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "US",
+    "town": "Phoenix",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 33.434299,
+    "longitude": -112.012001
   },
   {
     "root": "F-root",
@@ -11896,24 +11932,24 @@
     "operator": "Internet Systems Consortium, Inc.",
     "country": "US",
     "town": "Richmond",
-    "type": "Local",
-    "instances": 1,
-    "ipv4": true,
-    "ipv6": true,
-    "latitude": 37.50611,
-    "longitude": -77.3225
-  },
-  {
-    "root": "F-root",
-    "operator": "Internet Systems Consortium, Inc.",
-    "country": "US",
-    "town": "Richmond",
     "type": "Global",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 37.505199,
     "longitude": -77.319702
+  },
+  {
+    "root": "F-root",
+    "operator": "Internet Systems Consortium, Inc.",
+    "country": "US",
+    "town": "Richmond",
+    "type": "Local",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 37.50611,
+    "longitude": -77.3225
   },
   {
     "root": "F-root",
@@ -12197,11 +12233,11 @@
     "country": "ZA",
     "town": "Johannesburg",
     "type": "Local",
-    "instances": 6,
+    "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -26.133333,
-    "longitude": 28.25
+    "latitude": -26.132664,
+    "longitude": 28.231314
   },
   {
     "root": "F-root",
@@ -12209,11 +12245,11 @@
     "country": "ZA",
     "town": "Johannesburg",
     "type": "Local",
-    "instances": 1,
+    "instances": 6,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -26.132664,
-    "longitude": 28.231314
+    "latitude": -26.133333,
+    "longitude": 28.25
   },
   {
     "root": "F-root",
@@ -18701,7 +18737,7 @@
     "country": "US",
     "town": "Chicago",
     "type": "Global",
-    "instances": 2,
+    "instances": 1,
     "ipv4": true,
     "ipv6": true,
     "latitude": 41.8755616,
