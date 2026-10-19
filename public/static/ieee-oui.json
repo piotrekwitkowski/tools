@@ -39187,7 +39187,7 @@
   {
     "prefix": "001EB8",
     "vendor": "ATLAS LINK INC.",
-    "address": "#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL, JUNGWON-GU, SEONGNAM-SI GYEONGGI-DO KR 13438 "
+    "address": " #11F, 31, Hwangsaeul-ro 205beon-gil, Seongnam-si Gyeonggi-do KR 13595 "
   },
   {
     "prefix": "001EB9",
@@ -51373,6 +51373,11 @@
     "prefix": "003560",
     "vendor": "Rosen Aviation",
     "address": "1020 Owen Loop South Eugene Oregon US 97402 "
+  },
+  {
+    "prefix": "0035A9",
+    "vendor": "Juniper Networks",
+    "address": "1133 Innovation Way Sunnyvale CA US 94089 "
   },
   {
     "prefix": "0035FF",
@@ -64816,8 +64821,8 @@
   },
   {
     "prefix": "00E0EC",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "00E0ED",
@@ -70816,8 +70821,8 @@
   },
   {
     "prefix": "0C48C6",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "0C4933",
@@ -72583,6 +72588,11 @@
     "prefix": "1010B6",
     "vendor": "McCain Inc",
     "address": "2365 Oak Ridge Way Vista CA US 92081 "
+  },
+  {
+    "prefix": "101201",
+    "vendor": "AMD",
+    "address": "2485 Augustine Dr. Santa Clara CA US 95054 "
   },
   {
     "prefix": "101212",
@@ -76125,6 +76135,11 @@
     "address": "No. 38 East Chunhui Road, Xishan Economic & Technology Development Zone WUXI JIANGSU CN 214101 "
   },
   {
+    "prefix": "14AB7E",
+    "vendor": "Ciena Corporation",
+    "address": "7035 Ridge Road Hanover MD US 21076 "
+  },
+  {
     "prefix": "14ABC5",
     "vendor": "Intel Corporate",
     "address": "Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
@@ -76418,6 +76433,11 @@
     "prefix": "14CCB3",
     "vendor": "AO GK NATEKS",
     "address": "Kamenshiki B. str., 4 Moscow  RU 115172 "
+  },
+  {
+    "prefix": "14CCE7",
+    "vendor": "Vizio, Inc",
+    "address": "39 Tesla Irvine CA US 92618 "
   },
   {
     "prefix": "14CF8D",
@@ -79745,6 +79765,11 @@
     "address": "No.14-1, Tongqing Road, Baolong street, Longgang District ShenZhen GuangDong CN 518116 "
   },
   {
+    "prefix": "1C6465",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+  },
+  {
     "prefix": "1C6499",
     "vendor": "Comtrend Corporation",
     "address": "3F-1, 10 Lane 609, Chongxin Road, Section 5,  New Taipei City, Taiwan TW 24159 "
@@ -80588,6 +80613,11 @@
     "prefix": "1CCB99",
     "vendor": "TCT mobile ltd",
     "address": "No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
+  },
+  {
+    "prefix": "1CCCCD",
+    "vendor": "TECNO MOBILE LIMITED",
+    "address": "ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
   },
   {
     "prefix": "1CCCD6",
@@ -81668,6 +81698,11 @@
     "prefix": "2050E7",
     "vendor": "AMPAK Technology,Inc.",
     "address": "3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352 "
+  },
+  {
+    "prefix": "2051A5",
+    "vendor": "NetApp, Inc.",
+    "address": "3060 Olsen Dr. San Jose CA US 95128 "
   },
   {
     "prefix": "2051F5",
@@ -82788,6 +82823,11 @@
     "prefix": "20E59B",
     "vendor": "Panasonic Automotive Systems",
     "address": "1578-5 , Uegawa-chou Matsusaka Mie JP 5150041 "
+  },
+  {
+    "prefix": "20E5A4",
+    "vendor": "Espressif Systems (Singapore) Pte. Ltd",
+    "address": "1 FUSIONOPOLIS VIEW#07-02ECLIPSE Singapore  SG 138577 "
   },
   {
     "prefix": "20E6DF",
@@ -84188,6 +84228,11 @@
     "prefix": "249038",
     "vendor": "Universal Biosensors Pty Ltd",
     "address": "1 Corporate Ave Rowville Victoria AU 3178 "
+  },
+  {
+    "prefix": "249123",
+    "vendor": "SZ DJI Ronin Technology Co., Ltd.",
+    "address": "Skyworth Semiconductor Design Building 18 Gaoxin South 4th Avenue, Nanshan District shenzhen Guangdong CN 518057 "
   },
   {
     "prefix": "2491BB",
@@ -93111,8 +93156,8 @@
   },
   {
     "prefix": "34AD61",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "34ADE4",
@@ -95468,6 +95513,11 @@
     "prefix": "38B9AF",
     "vendor": "NXP Semiconductors Taiwan Ltd.",
     "address": "No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
+  },
+  {
+    "prefix": "38B9B2",
+    "vendor": "GD Midea Air-Conditioning Equipment Co.,Ltd.",
+    "address": "Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
   },
   {
     "prefix": "38BAB0",
@@ -98050,6 +98100,11 @@
     "address": "141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261 "
   },
   {
+    "prefix": "3CE255",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+  },
+  {
     "prefix": "3CE36B",
     "vendor": "Zhejiang Dahua Technology Co., Ltd.",
     "address": "No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
@@ -98933,6 +98988,11 @@
     "prefix": "40538C",
     "vendor": "LG Electronics",
     "address": "222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713 "
+  },
+  {
+    "prefix": "4053B3",
+    "vendor": "SUNITEC TECHNOLOGY CO.,LIMITED",
+    "address": "Floor 1-4, building C, Weixlangtal industrial park, no, 725, Dasan Village、Xingfu community, Fucheng Street, Longhua district Shenzhen  CN 518110 "
   },
   {
     "prefix": "405493",
@@ -102743,6 +102803,11 @@
     "prefix": "48128F",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+  },
+  {
+    "prefix": "481318",
+    "vendor": "zte corporation",
+    "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
   },
   {
     "prefix": "48137E",
@@ -114486,13 +114551,18 @@
   },
   {
     "prefix": "5CAAA2",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "5CAAFD",
     "vendor": "Sonos, Inc.",
     "address": "301 Coromar Dr Goleta CA US 93117 "
+  },
+  {
+    "prefix": "5CAB22",
+    "vendor": "IEEE Registration Authority",
+    "address": "445 Hoes Lane Piscataway NJ US 08554 "
   },
   {
     "prefix": "5CAC3D",
@@ -119576,8 +119646,8 @@
   },
   {
     "prefix": "64F64D",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "64F69D",
@@ -120328,6 +120398,11 @@
     "prefix": "6851B7",
     "vendor": "PowerCloud Systems, Inc.",
     "address": "3333 Coyote Hill Rd Palo Alto CA US 94304 "
+  },
+  {
+    "prefix": "68520E",
+    "vendor": "Sichuan Tianyi Comheart Telecom Co.,LTD",
+    "address": "No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
   },
   {
     "prefix": "685210",
@@ -123443,6 +123518,11 @@
     "prefix": "6CC49F",
     "vendor": "Hewlett Packard Enterprise",
     "address": "3333 Scott Blvd Santa Clara CA US 95054 "
+  },
+  {
+    "prefix": "6CC4AF",
+    "vendor": "Espressif Systems (Singapore) Pte. Ltd",
+    "address": "1 FUSIONOPOLIS VIEW#07-02ECLIPSE Singapore  SG 138577 "
   },
   {
     "prefix": "6CC4D5",
@@ -129540,6 +129620,11 @@
     "address": "6450 Sequence Drive San Diego CA US 92121 "
   },
   {
+    "prefix": "7871BA",
+    "vendor": "Silicon Laboratories",
+    "address": " 400 West Cesar Chavez Austin TX US 78701 "
+  },
+  {
     "prefix": "78725D",
     "vendor": "Cisco Systems, Inc",
     "address": "80 West Tasman Drive San Jose CA US 94568 "
@@ -131953,6 +132038,11 @@
     "prefix": "7C8657",
     "vendor": "GTWAVE",
     "address": "#804-2 Bdong, 723, Pangyo-ro, Bundang-gu, Seongnam-si, Gyeonggi-do Republic of Korea Seongnam  Gyeonggi-do KR 13511 "
+  },
+  {
+    "prefix": "7C86F3",
+    "vendor": "zte corporation",
+    "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
   },
   {
     "prefix": "7C8767",
@@ -138146,8 +138236,8 @@
   },
   {
     "prefix": "885A23",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "885A85",
@@ -141333,6 +141423,11 @@
     "prefix": "8CD0B2",
     "vendor": "Beijing Xiaomi Mobile Software Co., Ltd",
     "address": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
+  },
+  {
+    "prefix": "8CD121",
+    "vendor": "Juniper Networks",
+    "address": "1133 Innovation Way Sunnyvale CA US 94089 "
   },
   {
     "prefix": "8CD17B",
@@ -144886,8 +144981,8 @@
   },
   {
     "prefix": "946442",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "94652D",
@@ -147488,6 +147583,11 @@
     "prefix": "9897D1",
     "vendor": "MitraStar Technology Corp.",
     "address": "No. 6, Innovation Road II, Hsinchu  TW 300 "
+  },
+  {
+    "prefix": "989891",
+    "vendor": "zte corporation",
+    "address": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
   },
   {
     "prefix": "9898FB",
@@ -154660,6 +154760,11 @@
     "address": "Newland Science&Technology Park,No.1,Rujiang West Rd,Mawei,Fuzhou,P.R.China Fuzhou Fujian CN 350015 "
   },
   {
+    "prefix": "A4E972",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+  },
+  {
     "prefix": "A4E975",
     "vendor": "Apple, Inc.",
     "address": "1 Infinite Loop Cupertino CA US 95014 "
@@ -159545,6 +159650,11 @@
     "address": "1 Infinite Loop Cupertino CA US 95014 "
   },
   {
+    "prefix": "B03F70",
+    "vendor": "Sichuan Tianyi Comheart Telecom Co.,LTD",
+    "address": "No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
+  },
+  {
     "prefix": "B03FD3",
     "vendor": "Espressif Inc.",
     "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
@@ -162876,7 +162986,7 @@
   },
   {
     "prefix": "B4DB91",
-    "vendor": "CELESTICA INC.",
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
     "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
   },
   {
@@ -176585,6 +176695,11 @@
     "address": "One Dell Way Round Rock TX US 78682 "
   },
   {
+    "prefix": "D04341",
+    "vendor": "Sichuan AI-Link Technology Co., Ltd.",
+    "address": "Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
+  },
+  {
     "prefix": "D04433",
     "vendor": "Clourney Semiconductor",
     "address": "Floor 6, Building 8, 2777 Nong, Jinxiu East Road, Pudong Dist. Shanghai  Shanghai CN 201206 "
@@ -181046,8 +181161,8 @@
   },
   {
     "prefix": "D849BF",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "D84A2B",
@@ -184306,8 +184421,8 @@
   },
   {
     "prefix": "DCDA4D",
-    "vendor": "CELESTICA INC.",
-    "address": "1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 "
+    "vendor": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd",
+    "address": "Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim Kulim  MY 09090 "
   },
   {
     "prefix": "DCDA4F",
@@ -188295,6 +188410,11 @@
     "address": "10F, Block D, 5th Building, Shenzhen Software Industrial Base, Haitian 2nd Rd,Nanshan District Shenzhen Guangdong CN 518057 "
   },
   {
+    "prefix": "E4C218",
+    "vendor": "Silicon Laboratories",
+    "address": " 400 West Cesar Chavez Austin TX US 78701 "
+  },
+  {
     "prefix": "E4C2D1",
     "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
     "address": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -190730,6 +190850,11 @@
     "address": "6450 Sequence Drive San Diego CA US 92121 "
   },
   {
+    "prefix": "E8EDBD",
+    "vendor": "Espressif Inc.",
+    "address": "Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+  },
+  {
     "prefix": "E8EDD6",
     "vendor": "Fortinet, Inc.",
     "address": "899 Kifer Road Sunnyvale  US 94086 "
@@ -191548,6 +191673,11 @@
     "prefix": "EC4F82",
     "vendor": "Calix Inc.",
     "address": "2777 Orchard Pkwy San Jose CA US 95131 "
+  },
+  {
+    "prefix": "EC502A",
+    "vendor": "Funshion Online Technologies Co.,Ltd",
+    "address": "2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing Beijing   CN 100029 "
   },
   {
     "prefix": "EC50A6",
@@ -195540,6 +195670,11 @@
     "address": "Kaiserstrasse 100 Herzogenrath NRW DE 52134 "
   },
   {
+    "prefix": "F43E46",
+    "vendor": "Xenox IT & Kommunikations GmbH",
+    "address": "Blumengasse 9 Lanzenkirchen  AT 2821 "
+  },
+  {
     "prefix": "F43E61",
     "vendor": "SHENZHEN GONGJIN ELECTRONICS CO.,LT",
     "address": "2F Baiying Building Shenzhen Guangdong CN 518067 "
@@ -196998,6 +197133,11 @@
     "prefix": "F4EF9E",
     "vendor": "SGSG SCIENCE & TECHNOLOGY CO. LTD",
     "address": "3RD Fl, Bldg A3, No.1 software Park Rd Zhuhai Guangdong CN 519085 "
+  },
+  {
+    "prefix": "F4F032",
+    "vendor": "Ciena Corporation",
+    "address": "7035 Ridge Road Hanover MD US 21076 "
   },
   {
     "prefix": "F4F15A",
