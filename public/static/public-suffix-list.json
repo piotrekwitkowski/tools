@@ -42258,6 +42258,138 @@
     "exception": false
   },
   {
+    "suffix": "consent-portal.bedrock-agentcore.ap-northeast-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ap-northeast-2.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ap-south-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ap-south-2.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ap-southeast-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ap-southeast-2.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ap-southeast-5.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ap-southeast-7.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.ca-central-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.eu-central-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.eu-north-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.eu-south-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.eu-south-2.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.eu-west-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.eu-west-2.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.eu-west-3.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.sa-east-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.us-east-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.us-east-2.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.us-gov-west-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.us-west-1.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "consent-portal.bedrock-agentcore.us-west-2.amazonaws.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "cloudfront.net",
     "type": "private",
     "wildcard": false,
@@ -43315,6 +43447,12 @@
   },
   {
     "suffix": "*.airflow.ap-southeast-5.on.aws",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.airflow.ap-southeast-7.on.aws",
     "type": "private",
     "wildcard": true,
     "exception": false
@@ -47064,6 +47202,12 @@
     "exception": false
   },
   {
+    "suffix": "transfer-webapp.ap-east-2.on.aws",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "transfer-webapp.ap-northeast-1.on.aws",
     "type": "private",
     "wildcard": false,
@@ -47119,6 +47263,12 @@
   },
   {
     "suffix": "transfer-webapp.ap-southeast-5.on.aws",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "transfer-webapp.ap-southeast-6.on.aws",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -47275,6 +47425,12 @@
   },
   {
     "suffix": "transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "transfer-webapp.eusc-de-east-1.on.amazonwebservices.eu",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -52962,12 +53118,6 @@
     "exception": false
   },
   {
-    "suffix": "gitapp.si",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "gitpage.si",
     "type": "private",
     "wildcard": false,
@@ -55338,12 +55488,6 @@
     "exception": false
   },
   {
-    "suffix": "knightpoint.systems",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "koobin.events",
     "type": "private",
     "wildcard": false,
@@ -57000,6 +57144,240 @@
     "exception": false
   },
   {
+    "suffix": "kr.object.fin-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website.kr.object.fin-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.object.private.fin-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr-private.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.object.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website.kr.object.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "krs.object.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website.krs.object.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.object.private.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "krs.object.private.gov-ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.objectstorage.ncloud.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "sg.objectstorage.ncloud.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr-naver.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr-naver-dev.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr-private.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "de.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website.de.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website.kr.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "sg.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website.sg.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "us.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website.us.object.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.object.private.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "sg.object.private.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.website.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr-naver.website.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr-naver-dev.website.ncloudstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jp.object.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jp.jp4.object.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jp.jp5.object.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.object.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "s3-website-jp.object.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jp.object.private.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jp.jp4.object.private.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "jp.jp5.object.private.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kr.object.private.ncpstorage.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "needle.run",
     "type": "private",
     "wildcard": false,
@@ -58417,12 +58795,6 @@
   },
   {
     "suffix": "pplx.app",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "perspecta.cloud",
     "type": "private",
     "wildcard": false,
     "exception": false
