@@ -42018,6 +42018,12 @@
     "exception": false
   },
   {
+    "suffix": "*.ztna-dingtalk.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
     "suffix": "ms.fun",
     "type": "private",
     "wildcard": false,
@@ -52986,12 +52992,6 @@
     "exception": false
   },
   {
-    "suffix": "aliases121.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "campaign.gov.uk",
     "type": "private",
     "wildcard": false,
@@ -55501,12 +55501,6 @@
   },
   {
     "suffix": "krellian.net",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "oya.to",
     "type": "private",
     "wildcard": false,
     "exception": false
