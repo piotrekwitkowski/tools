@@ -12818,6 +12818,18 @@
   {
     "root": "I-root",
     "operator": "Netnod",
+    "country": "FO",
+    "town": "Torshavn",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 62.011254,
+    "longitude": -6.766178
+  },
+  {
+    "root": "I-root",
+    "operator": "Netnod",
     "country": "FR",
     "town": "Paris",
     "type": "Global",
@@ -18862,6 +18874,18 @@
     "ipv6": true,
     "latitude": -34.9058916,
     "longitude": -56.1913095
+  },
+  {
+    "root": "L-root",
+    "operator": "ICANN",
+    "country": "UZ",
+    "town": "Tashkent",
+    "type": "Global",
+    "instances": 1,
+    "ipv4": true,
+    "ipv6": true,
+    "latitude": 41.3123363,
+    "longitude": 69.2787079
   },
   {
     "root": "L-root",
