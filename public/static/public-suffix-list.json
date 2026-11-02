@@ -37578,12 +37578,6 @@
     "exception": false
   },
   {
-    "suffix": "helsinki",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "here",
     "type": "ICANN",
     "wildcard": false,
