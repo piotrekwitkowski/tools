@@ -33720,7 +33720,19 @@
     "exception": false
   },
   {
+    "suffix": "ad.vn",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "ai.vn",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ap.vn",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -33787,6 +33799,12 @@
   },
   {
     "suffix": "net.vn",
+    "type": "ICANN",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "on.vn",
     "type": "ICANN",
     "wildcard": false,
     "exception": false
@@ -47478,12 +47496,6 @@
     "exception": false
   },
   {
-    "suffix": "*.cursorusercontent.com",
-    "type": "private",
-    "wildcard": true,
-    "exception": false
-  },
-  {
     "suffix": "apigee.io",
     "type": "private",
     "wildcard": false,
@@ -47868,6 +47880,12 @@
     "exception": false
   },
   {
+    "suffix": "ship.place",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "blackbaudcdn.net",
     "type": "private",
     "wildcard": false,
@@ -47875,6 +47893,12 @@
   },
   {
     "suffix": "of.je",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "prod.page",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -48025,6 +48049,12 @@
   },
   {
     "suffix": "bubbleapps.io",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "manus.space",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -49543,6 +49573,12 @@
   },
   {
     "suffix": "ddns.wtf",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "docsflowy.site",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -55680,6 +55716,12 @@
     "exception": false
   },
   {
+    "suffix": "linkyhost.page",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "members.linode.com",
     "type": "private",
     "wildcard": false,
@@ -55813,6 +55855,12 @@
   },
   {
     "suffix": "lovable.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "auth.lovable.app",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -58716,6 +58764,12 @@
     "exception": false
   },
   {
+    "suffix": "pagelemon.dev",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "pgfog.com",
     "type": "private",
     "wildcard": false,
@@ -59922,6 +59976,18 @@
     "exception": false
   },
   {
+    "suffix": "sanity.run",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "sanity.studio",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "sav.case",
     "type": "private",
     "wildcard": false,
@@ -60498,6 +60564,12 @@
     "exception": false
   },
   {
+    "suffix": "sliplane.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "small-web.org",
     "type": "private",
     "wildcard": false,
@@ -60661,6 +60733,30 @@
   },
   {
     "suffix": "nx.gw",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "*.apps.grok.bot",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.pages.grok.bot",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "*.cursorusercontent.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
+    "suffix": "grok.me",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -62191,12 +62287,6 @@
   },
   {
     "suffix": "js.wpenginepowered.com",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "grok.me",
     "type": "private",
     "wildcard": false,
     "exception": false
