@@ -12711,13 +12711,13 @@
     "root": "I-root",
     "operator": "Netnod",
     "country": "CL",
-    "town": "Concepción",
+    "town": "Santiago",
     "type": "Global",
     "instances": 1,
     "ipv4": true,
     "ipv6": true,
-    "latitude": -36.832406,
-    "longitude": -73.047861
+    "latitude": -33.425759,
+    "longitude": -70.602964
   },
   {
     "root": "I-root",
@@ -18809,7 +18809,7 @@
     "country": "US",
     "town": "Los Angeles",
     "type": "Global",
-    "instances": 9,
+    "instances": 8,
     "ipv4": true,
     "ipv6": true,
     "latitude": 34.0536909,
