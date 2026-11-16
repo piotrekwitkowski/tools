@@ -16435,7 +16435,7 @@
     "type": "Global",
     "instances": 1,
     "ipv4": true,
-    "ipv6": false,
+    "ipv6": true,
     "latitude": 42.8777895,
     "longitude": 74.6066926
   },
@@ -16447,7 +16447,7 @@
     "type": "Global",
     "instances": 1,
     "ipv4": true,
-    "ipv6": true,
+    "ipv6": false,
     "latitude": 42.8777895,
     "longitude": 74.6066926
   },
