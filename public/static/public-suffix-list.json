@@ -41052,12 +41052,6 @@
     "exception": false
   },
   {
-    "suffix": "xihuan",
-    "type": "ICANN",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "xin",
     "type": "ICANN",
     "wildcard": false,
@@ -48942,6 +48936,12 @@
     "exception": false
   },
   {
+    "suffix": "prod.enter.pro",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "convex.app",
     "type": "private",
     "wildcard": false,
@@ -52968,6 +52968,24 @@
     "exception": false
   },
   {
+    "suffix": "pvf.cc",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "kz.ci",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "xyz.ci",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "freemyip.com",
     "type": "private",
     "wildcard": false,
@@ -53137,6 +53155,18 @@
   },
   {
     "suffix": "gadget.host",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "fastedge.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "gcorecdn.com",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -55638,6 +55668,12 @@
     "exception": false
   },
   {
+    "suffix": "kliv.site",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "koobin.events",
     "type": "private",
     "wildcard": false,
@@ -56281,6 +56317,18 @@
   },
   {
     "suffix": "hb.cldmail.ru",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "mailerpage.io",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "subscribepage.io",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -57732,6 +57780,12 @@
     "exception": false
   },
   {
+    "suffix": "nippy.site",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "mmafan.biz",
     "type": "private",
     "wildcard": false,
@@ -59124,6 +59178,12 @@
     "exception": false
   },
   {
+    "suffix": "*.prairielearn-user-content.com",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
     "suffix": "prequalifyme.today",
     "type": "private",
     "wildcard": false,
@@ -59131,6 +59191,36 @@
   },
   {
     "suffix": "xen.prgmr.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "ec.cc",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "eu.cc",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "gu.cc",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "uk.cc",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "us.cc",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -60906,6 +60996,12 @@
     "exception": false
   },
   {
+    "suffix": "solidres.page",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "playstation-cloud.com",
     "type": "private",
     "wildcard": false,
@@ -61608,36 +61704,6 @@
     "exception": false
   },
   {
-    "suffix": "ec.cc",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "eu.cc",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "gu.cc",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "uk.cc",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
-    "suffix": "us.cc",
-    "type": "private",
-    "wildcard": false,
-    "exception": false
-  },
-  {
     "suffix": "edugit.io",
     "type": "private",
     "wildcard": false,
@@ -61944,6 +62010,12 @@
     "exception": false
   },
   {
+    "suffix": "*.2na.am",
+    "type": "private",
+    "wildcard": true,
+    "exception": false
+  },
+  {
     "suffix": "tunnelmole.net",
     "type": "private",
     "wildcard": false,
@@ -62005,6 +62077,12 @@
   },
   {
     "suffix": "umso.co",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "uncld.dev",
     "type": "private",
     "wildcard": false,
     "exception": false
@@ -62526,6 +62604,18 @@
     "exception": false
   },
   {
+    "suffix": "wordsmithmcpcontent.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "staging.wordsmithmcpcontent.com",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
     "suffix": "wpenginepowered.com",
     "type": "private",
     "wildcard": false,
@@ -62653,6 +62743,12 @@
   },
   {
     "suffix": "zeabur.app",
+    "type": "private",
+    "wildcard": false,
+    "exception": false
+  },
+  {
+    "suffix": "fj.kg",
     "type": "private",
     "wildcard": false,
     "exception": false
