@@ -54,7 +54,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/static/cloudfront-embedded-pops.json
           git commit -m "${COMMIT_MSG}"
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin master && git push && exit 0
+            echo "Push attempt $attempt failed, retrying in 5s"
+            sleep 5
+          done
+          exit 1
 
       - name: Trigger deploy
         if: steps.fetch.outputs.has_changes == 'true'
